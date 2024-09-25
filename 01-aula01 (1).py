@@ -1,10 +1,10 @@
 # Aqui eu posso adicionar comentários
 # Continuar na linha de baixo
-print("Luiz") # comentário a linha do código
-print('Luiz')
-print('Luiz "neto" Carlos')
-print("Luiz 'neto' carlos")
-print("Luiz \"Neto\" Carlos")
+print("khadija") # comentário a linha do código
+print('khadija')
+print('khadija "kha" torres')
+print("khadija 'kha' torres")
+print("khadija \"kha\" torres")
 
 teste= "oi"
 print(teste)
