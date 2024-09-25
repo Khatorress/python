@@ -1,7 +1,7 @@
 # atribuição das variáveis
-nome = "luiz"
+nome = "kha"
 idade = 16
-altura = 1.75
+altura = 1.55
 
 # exibir mensagem na tela
 print("nome: ", nome, " idade: ", idade, " altura: ", altura)
